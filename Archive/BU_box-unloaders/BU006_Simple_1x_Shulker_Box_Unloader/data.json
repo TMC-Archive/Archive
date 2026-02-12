@@ -56,7 +56,8 @@
         "type": "unknown",
         "username": "TMC Schematic Renderer"
       },
-      "timestamp": 1752087905000
+      "timestamp": 1752087905000,
+      "hash": "68a8a18bfbc5f80a57017f01344907f3ef00c2ab875b4a6e04cde6a6fb94c15e"
     },
     {
       "id": "1392582338839314574",
@@ -73,7 +74,8 @@
         "type": "unknown",
         "username": "TMC Schematic Renderer"
       },
-      "timestamp": 1752087902000
+      "timestamp": 1752087902000,
+      "hash": "1694e26cc726054dd151d00e9c5e1423b4cf3f3d52ac95be42ffdd50c65a7774"
     }
   ],
   "attachments": [
@@ -95,7 +97,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1750799978000,
-      "size": 677
+      "size": 677,
+      "hash": "00419d7fbd122f9a7bf3d7709d8f525917dd691af5bd1da629a4436170914144"
     },
     {
       "id": "1390784091909259475",
@@ -115,7 +118,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1751659167000,
-      "size": 759
+      "size": 759,
+      "hash": "379bbfecb30d4e8fd32626c751af07a06ff8e1638415218087707f3c92a43382"
     }
   ],
   "records": {

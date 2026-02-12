@@ -66,7 +66,8 @@
         "type": "unknown",
         "username": "TMC Schematic Renderer"
       },
-      "timestamp": 1752597147000
+      "timestamp": 1752597147000,
+      "hash": "28b4014328606184d383767d4438b90c7e1917fc9ff50109f41ddb883024e49e"
     }
   ],
   "attachments": [
@@ -88,7 +89,8 @@
         "username": "camphorwood"
       },
       "timestamp": 1752597026000,
-      "size": 1324
+      "size": 1324,
+      "hash": "b69423dbcf3cf9996b45d222466208215405c6abf4512f0578f06704d0af6f3b"
     }
   ],
   "records": {

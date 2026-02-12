@@ -71,7 +71,8 @@
       "canDownload": true,
       "width": 1600,
       "height": 646,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "hash": "2aa5b979b0ccc12e5dcb44c12850d9b7fd027fa783abc0d9a740a6e32adad6e4"
     }
   ],
   "attachments": [
@@ -96,7 +97,8 @@
       "litematic": {
         "size": "4x2x7",
         "version": "1.21.4"
-      }
+      },
+      "hash": "6106dc136076c5cf5432941f2b39964c64bcdeea445b47d338861f562d13d56b"
     }
   ],
   "records": {

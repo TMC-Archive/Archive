@@ -60,7 +60,8 @@
       "canDownload": true,
       "width": 1587,
       "height": 1600,
-      "path": "images/CommandLeo_1.20_Ultimate_Unstackable_Sorter.png"
+      "path": "images/CommandLeo_1.20_Ultimate_Unstackable_Sorter.png",
+      "hash": "bbf1b9ea96f2bc6f83aefbdb9ddf7b32a29035328f692fe845a92093175b43d2"
     },
     {
       "id": "1386690709645561877",
@@ -81,7 +82,8 @@
       "canDownload": true,
       "width": 1586,
       "height": 1600,
-      "path": "images/CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Entityless.png"
+      "path": "images/CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Entityless.png",
+      "hash": "2de08f1336981e5f69988cde792d8e187b91dbb121d524d1b4e76a6a6fbf7462"
     }
   ],
   "attachments": [
@@ -106,7 +108,8 @@
       "litematic": {
         "size": "7x11x16",
         "version": "1.20.2"
-      }
+      },
+      "hash": "cc41dfda3f61fc252bb3cfe57f9c4ac903cd7f9340f002b6d6ca573be3eb8460"
     },
     {
       "id": "1386690710409056266",
@@ -129,7 +132,8 @@
       "litematic": {
         "size": "7x11x16",
         "version": "1.20.2"
-      }
+      },
+      "hash": "be91a5bcbfa3c9bba4f76e0e31d4e7d4c09d27039757ba9e146575edaf7ef0d0"
     }
   ],
   "records": {

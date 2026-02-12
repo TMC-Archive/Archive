@@ -60,7 +60,8 @@
         "type": "unknown",
         "username": "ragdollwilly"
       },
-      "timestamp": 1753155120000
+      "timestamp": 1753155120000,
+      "hash": "36e3e480513ff8e1123ae0cfaeb0ffa00c7c4795036508a25175873624cb1543"
     }
   ],
   "attachments": [
@@ -82,7 +83,8 @@
         "username": "ragdollwilly"
       },
       "timestamp": 1753155120000,
-      "size": 1540
+      "size": 1540,
+      "hash": "2f60eb7e46b219444365d25ad6af3160c3268ab9d5b00cd6e781e5e72d43094d"
     }
   ],
   "records": {

@@ -48,7 +48,8 @@
         "type": "unknown",
         "username": "0wucat_73519"
       },
-      "timestamp": 1766492184000
+      "timestamp": 1766492184000,
+      "hash": "75fe4b3688617de63fb8c3b20bec19fa8a6a763468e5a24a2877667e143f9e54"
     }
   ],
   "attachments": [
@@ -70,7 +71,8 @@
         "username": "0wucat_73519"
       },
       "timestamp": 1766492184000,
-      "size": 1284
+      "size": 1284,
+      "hash": "71b518dc512e7e2f8881bad697f07c69c19db6ae302192273ebf4f3ebea7c821"
     }
   ],
   "records": {

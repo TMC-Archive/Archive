@@ -55,7 +55,8 @@
         "type": "unknown",
         "username": "tisunfortunate"
       },
-      "timestamp": 1767977672000
+      "timestamp": 1767977672000,
+      "hash": "68de51bc6b40c3aac5b60d629cf43bd5c1a7a8ea72cf1ac1eb72ac6d397343c6"
     }
   ],
   "attachments": [
@@ -77,7 +78,8 @@
         "username": "tisunfortunate"
       },
       "timestamp": 1767977672000,
-      "size": 8712
+      "size": 8712,
+      "hash": "e2ff250611179879f6143b7c9a0e8964e4847c3ab7932889959bef9c0476a3f9"
     }
   ],
   "records": {

@@ -50,7 +50,8 @@
         "type": "unknown",
         "username": "bipim"
       },
-      "timestamp": 1768939941000
+      "timestamp": 1768939941000,
+      "hash": "21e8411c9db72406c1db63496d32a2a0db1e94d0d01d50310450478faa4d2027"
     },
     {
       "id": "1463264913525838007",
@@ -65,7 +66,8 @@
         "type": "unknown",
         "username": "bipim"
       },
-      "timestamp": 1768939941000
+      "timestamp": 1768939941000,
+      "hash": "ba8d5805df0dd468a7d8d3e5c1e703de936086234cfb013d056b348d4e74e633"
     },
     {
       "id": "1463732763151831140",
@@ -82,7 +84,8 @@
         "type": "unknown",
         "username": "andrews54757"
       },
-      "timestamp": 1769051485000
+      "timestamp": 1769051485000,
+      "hash": "3e6ce6a8613b5c5912027139546f3670968c7574112c69f09d68ce1e3947d98d"
     }
   ],
   "attachments": [
@@ -104,7 +107,8 @@
         "username": "bipim"
       },
       "timestamp": 1768939941000,
-      "size": 2986
+      "size": 2986,
+      "hash": "ccdd473f302a2dc3ff8ee42359681cc6adefedbc6b66ff130560132bd2667b71"
     },
     {
       "id": "1463264912532049974",
@@ -124,7 +128,8 @@
         "username": "bipim"
       },
       "timestamp": 1768939941000,
-      "size": 14152
+      "size": 14152,
+      "hash": "7c8e8a31dfb919828b90d86c7c6f77d25b9e5b35458493414307626eeef0e1f2"
     },
     {
       "id": "1463732761335566549",
@@ -151,7 +156,8 @@
           "version": "1.21.4",
           "levelName": "Bipim Remote Brewer Array"
         }
-      ]
+      ],
+      "hash": "3fc44a3ae013dbb64c5c0957d5fd34db77410241133a7e77f388b24c3db05ae1"
     },
     {
       "id": "1463732761583157452",
@@ -171,7 +177,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1769051485000,
-      "size": 16753
+      "size": 16753,
+      "hash": "8b5e5f9847284bad7ce8f92fe3f694d114f9ca25ff006cc82b8b2f5bb174c9bb"
     }
   ],
   "records": {

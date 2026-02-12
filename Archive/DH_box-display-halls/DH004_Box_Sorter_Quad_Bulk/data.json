@@ -56,7 +56,8 @@
         "type": "unknown",
         "username": "andrews54757"
       },
-      "timestamp": 1750746522000
+      "timestamp": 1750746522000,
+      "hash": "a6d3284275b6f11f7c54ec6f72aedee0d56a6ab39e9d2e759b63e155d385d4f2"
     },
     {
       "id": "1386956183432335472",
@@ -73,7 +74,8 @@
         "type": "unknown",
         "username": "andrews54757"
       },
-      "timestamp": 1750746522000
+      "timestamp": 1750746522000,
+      "hash": "0c4a4f533a1a1040363c921462115e0f72b8c92260c3058bc44c64436526c721"
     }
   ],
   "attachments": [
@@ -102,7 +104,8 @@
           "version": "1.21.1",
           "levelName": "quad bulk showcase"
         }
-      ]
+      ],
+      "hash": "aa55e29bd24cc0561a043f51eae193e120415c181bc62397f3c1d689f7023ad2"
     },
     {
       "id": "1451836922824753194",
@@ -122,7 +125,8 @@
         "username": "camphorwood"
       },
       "timestamp": 1766215296000,
-      "size": 104019
+      "size": 104019,
+      "hash": "9c84c90265289dc67ac8b81b76ebd67d43a3d814d1fae7ed1246697d23cf37a0"
     }
   ],
   "records": {

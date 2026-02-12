@@ -52,7 +52,8 @@
         "type": "unknown",
         "username": "777777777777777777774832"
       },
-      "timestamp": 1754458466000
+      "timestamp": 1754458466000,
+      "hash": "98beb301fa5d58ecb77671da744ee79150c88f7369714ccd89b0a7b73a04ca0a"
     }
   ],
   "attachments": [
@@ -74,7 +75,8 @@
         "username": "777777777777777777774832"
       },
       "timestamp": 1754458527000,
-      "size": 971
+      "size": 971,
+      "hash": "ce2bc13140f47c4fd730321486de66a3ce9364791c518fbce1b4b5d1d77a0c00"
     }
   ],
   "records": {

@@ -48,7 +48,8 @@
         "type": "unknown",
         "username": "nvertd"
       },
-      "timestamp": 1766140426000
+      "timestamp": 1766140426000,
+      "hash": "6245065543f8d65ceb5655b5608f588ac06d878948e3428543c4943ba9a195ca"
     }
   ],
   "attachments": [
@@ -70,7 +71,8 @@
         "username": "nvertd"
       },
       "timestamp": 1766140426000,
-      "size": 707
+      "size": 707,
+      "hash": "977fe8460e065ce1ceb62d6bb63e03ec58b9b9043fb381c623324c607bc4518f"
     },
     {
       "id": "1451522900459786310",
@@ -86,7 +88,8 @@
         "username": "nvertd"
       },
       "timestamp": 1766140426000,
-      "size": 53925300
+      "size": 53925300,
+      "hash": "fee3851a8c1b0a21e5363edc1317dc847c13e35680aa86441e28fdfda1ef9866"
     }
   ],
   "records": {

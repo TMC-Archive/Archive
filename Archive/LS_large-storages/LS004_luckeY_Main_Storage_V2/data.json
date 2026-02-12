@@ -48,7 +48,8 @@
         "username": "Unknown"
       },
       "timestamp": 1767887088000,
-      "path": "images/luckeY_MS_v2.png"
+      "path": "images/luckeY_MS_v2.png",
+      "hash": "d1b72111110c95f1f27c5f5af4765f0b0b95dfe350762697d9b473f6ee219cd3"
     },
     {
       "id": "1458849423579676774",
@@ -65,7 +66,8 @@
         "username": "Unknown"
       },
       "timestamp": 1769242389377,
-      "path": "images/2025-11-13_13.31.48.png"
+      "path": "images/2025-11-13_13.31.48.png",
+      "hash": "5a9016045df7a99ac204758fd6b215bcc0b1b51be7d6a60d9c7b8983a234e40c"
     },
     {
       "id": "1458849417187823669",
@@ -82,7 +84,8 @@
         "username": "Unknown"
       },
       "timestamp": 1769242389377,
-      "path": "images/2025-11-13_13.32.25.png"
+      "path": "images/2025-11-13_13.32.25.png",
+      "hash": "d9f092448843bcc2e08e6d4266563940e1816406e0f5367aa8733ad527e26599"
     },
     {
       "id": "1458849416411746354",
@@ -99,7 +102,8 @@
         "username": "Unknown"
       },
       "timestamp": 1769242389377,
-      "path": "images/2025-11-13_13.32.13.png"
+      "path": "images/2025-11-13_13.32.13.png",
+      "hash": "182ba7317c2145a5da891d13dcb1f585dd3fd518d307b06242b43c518adcae51"
     },
     {
       "id": "1458849415572754588",
@@ -116,7 +120,8 @@
         "username": "Unknown"
       },
       "timestamp": 1769242389377,
-      "path": "images/2025-11-13_13.32.03.png"
+      "path": "images/2025-11-13_13.32.03.png",
+      "hash": "27a99fc3763d4819f249bff860ff0f604d6e241355cf5f0f299e2456d4aa0012"
     }
   ],
   "attachments": [
@@ -138,7 +143,8 @@
         "username": "Unknown"
       },
       "timestamp": 1769052748000,
-      "size": 216230
+      "size": 216230,
+      "hash": "72a64ef1f2a5f95cdfbf322916d4d571ac11bd9b81cb83fbae533d523486382c"
     },
     {
       "id": "1458849778220798168",
@@ -158,7 +164,8 @@
         "username": "Unknown"
       },
       "timestamp": 1767887291000,
-      "size": 1179
+      "size": 1179,
+      "hash": "670826d9797f7ef183d8724978284d45caf37c4d77420e3f73ba12a2b88e8f4f"
     },
     {
       "id": "1470296757651898514",
@@ -189,7 +196,8 @@
         "version": "1.21.10",
         "optimized": true
       },
-      "unoptimizedSize": 30782049
+      "unoptimizedSize": 30782049,
+      "hash": "7f18c054ce492f9b2a3ce9b22b069634ecb30264aec53a3f7b6e7d0c223a5b8d"
     }
   ],
   "records": {

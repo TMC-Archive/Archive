@@ -48,7 +48,8 @@
         "type": "unknown",
         "username": "drakephose"
       },
-      "timestamp": 1751908590000
+      "timestamp": 1751908590000,
+      "hash": "cc52cda1f3a87becc034c7f9d4839e356288887c64bb6029dbde87cb1517ffe3"
     },
     {
       "id": "1391830252925223043",
@@ -65,7 +66,8 @@
         "type": "unknown",
         "username": "drakephose"
       },
-      "timestamp": 1751908590000
+      "timestamp": 1751908590000,
+      "hash": "b3c5ed43cc140320b01784e51e3927467f0c7c8dcfd615e208bd12e53afdaaf1"
     }
   ],
   "attachments": [
@@ -87,7 +89,8 @@
         "username": "drakephose"
       },
       "timestamp": 1751908590000,
-      "size": 883
+      "size": 883,
+      "hash": "74a68d89cd472481c01d22a2aac1a251f24503d606f524aa95e50be868901b63"
     },
     {
       "id": "1391830253802098769",
@@ -107,7 +110,8 @@
         "username": "drakephose"
       },
       "timestamp": 1751908590000,
-      "size": 1040
+      "size": 1040,
+      "hash": "4ba09f660f1374e3cf4fa668b861392e4c87a92c4ec9cbf69a498d51b56585d7"
     }
   ],
   "records": {

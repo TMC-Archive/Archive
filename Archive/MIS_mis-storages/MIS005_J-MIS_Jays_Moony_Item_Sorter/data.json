@@ -20,7 +20,7 @@
       "id": "548676165020286994",
       "username": "moonyinspired",
       "displayName": "Moonyinspired",
-      "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/41c22222738005f1e705dc1c80c88dd7.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/6a043eedc78d0a9b8e96de6c41b07c97.webp"
     },
     {
       "type": "discord-external",
@@ -64,7 +64,8 @@
         "type": "unknown",
         "username": "andrews54757"
       },
-      "timestamp": 1751129347000
+      "timestamp": 1751129347000,
+      "hash": "163f01d4d15d24ff159f1b1cbd6eb0a0d9ba4b4dee55ce5e77ee80028754e1aa"
     }
   ],
   "attachments": [
@@ -86,7 +87,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1751129300000,
-      "size": 33091
+      "size": 33091,
+      "hash": "1fba524d387af532180c204cee40f79a5a6db7fd2d34532194812e0d20c73623"
     },
     {
       "id": "1388561671705989222",
@@ -106,7 +108,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1751129300000,
-      "size": 42101
+      "size": 42101,
+      "hash": "f2d3bd387da9618cf83be6add832cd530fca014ba63411599c3686cb6528c03e"
     },
     {
       "id": "1388561672083472464",
@@ -126,7 +129,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1751129300000,
-      "size": 33920
+      "size": 33920,
+      "hash": "e297dee7458e2b1d2a71df9356e56a5ecaf8aa7953f38ae2dcc6bc810707ae7e"
     },
     {
       "id": "1234329599165337621",
@@ -153,7 +157,8 @@
           "version": "1.20.1",
           "levelName": "J-M-IS"
         }
-      ]
+      ],
+      "hash": "6fb1827db16aa446a44a1c329f79cca16c51420ea63d615713c04c37f9c7f6e7"
     }
   ],
   "records": {

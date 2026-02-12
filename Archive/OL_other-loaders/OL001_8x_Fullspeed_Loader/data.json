@@ -52,7 +52,8 @@
         "type": "unknown",
         "username": "sandcaribou"
       },
-      "timestamp": 1750629689000
+      "timestamp": 1750629689000,
+      "hash": "a9a1aa8e8cba9c50fc661b4361bce433cedee760b21b24487236da6a9c6895ae"
     }
   ],
   "attachments": [
@@ -74,7 +75,8 @@
         "username": "sandcaribou"
       },
       "timestamp": 1750629689000,
-      "size": 1426
+      "size": 1426,
+      "hash": "8549ae1c7c82ee4303a2ec19dc9cefbe3ef916dd4854c9438830e63f1e9d76e0"
     }
   ],
   "records": {
