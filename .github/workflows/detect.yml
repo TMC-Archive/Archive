@@ -9,18 +9,20 @@ on:
 jobs:
   process-new-archive:
     runs-on: ubuntu-latest
-    if: github.event.head_commit.modified || github.event.head_commit.added
-    
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
       
       - name: Get newly added data files
         id: get-new-files
         run: |
-          FILES=$(git diff --name-only --diff-filter=AM HEAD^ HEAD -- 'Archive/**/data.json')
+          FILES=$(git diff --name-only --diff-filter=A \
+            ${{ github.event.before }} \
+            ${{ github.sha }} \
+            -- 'Archive/**/data.json')
           
           JSON_FILES="[]"
           if [ -n "$FILES" ]; then
@@ -32,11 +34,13 @@ jobs:
       - name: Process each new file
         if: steps.get-new-files.outputs.files != '[]'
         run: |
-          echo "${{ steps.get-new-files.outputs.files }}" | jq -r '.[]' | while read file; do
+          echo '${{ steps.get-new-files.outputs.files }}' | jq -r '.[]' | while read file; do
             REL_PATH="${file#Archive/}"
             ENCODED_PATH=$(echo -n "$REL_PATH" | jq -sRr @uri)
-            FULL_URL="https://raw.githubusercontent.com/${{ github.repository }}/main/Archive/$ENCODED_PATH"
+
+            FULL_URL="https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/$file"
             ENCODED_URL=$(echo -n "$FULL_URL" | jq -sRr @uri)
+
             ENDPOINT="${{ secrets.STORAGE_CATALOG_URL }}/$ENCODED_URL"
             
             curl -v "$ENDPOINT" \
