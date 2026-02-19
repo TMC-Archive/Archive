@@ -108,6 +108,62 @@
   ],
   "attachments": [
     {
+      "id": "1473206154027860052",
+      "name": "MIS011_CMIS_5-0_Demo_MC1_21_11.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1463670970337464384/1473206154027860052/CMIS_5-0_Demo_MC1_21_11.zip?ex=69955da5&is=69940c25&hm=44a11002d221ca03bb60c75e44e9100286b51db177a86f9ac45a163c9561f804&",
+      "timestamp": 1771310117961,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 5436190,
+      "canDownload": true,
+      "hash": "f37bbb8f8dafd69dac4097afeaef1bd1bb3abc4c68dc4b08b3af4ab00b284098",
+      "path": "attachments/MIS011_CMIS_5-0_Demo_MC1_21_11.zip",
+      "wdls": [
+        {
+          "path": "CMIS Demo",
+          "version": "1.21.11",
+          "levelName": "CMIS Demo"
+        }
+      ],
+      "wdl": {
+        "version": "1.21.11",
+        "optimized": true
+      },
+      "unoptimizedSize": 38830745
+    },
+    {
+      "id": "1473203318443610385",
+      "name": "MIS011_CMIS-V5.0_1-21-11.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1463670970337464384/1473203318443610385/CMIS-V5.0_1-21-11.litematic?ex=69955b01&is=69940981&hm=50bc0dca1a5ccbf316a3bb99612ec97f8f7dfa69e2fce9c11d7979177548dab6&",
+      "timestamp": 1771309441904,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "142441395095863296",
+        "username": "civicdude",
+        "displayName": "Civic Dude",
+        "iconURL": "https://cdn.discordapp.com/avatars/142441395095863296/dcf48bee377748f5809116893cac5bae.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 238198,
+      "canDownload": true,
+      "hash": "bdaf62d8613f7cce7457061bf7b7a4fcac9a4f15720cfd2c6caeafc2d601b6e1",
+      "path": "attachments/MIS011_CMIS-V5.0_1-21-11.litematic",
+      "litematic": {
+        "size": "75x44x94",
+        "version": "1.21.11"
+      }
+    },
+    {
       "id": "1464085679373025310",
       "name": "MIS011_CMIS_V5_nether.litematic",
       "contentType": "unknown",
@@ -159,43 +215,11 @@
       }
     },
     {
-      "id": "1469415543562961081",
-      "name": "MIS011_CMIS_V5_Demo_2.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1463670970337464384/1469415543562961081/CMIS_V5_Demo_2.zip?ex=6987935e&is=698641de&hm=3721a527e736e2b510872c2b5a11af78cc46dc57718aae59d7bf38f37d0e97ec&",
-      "timestamp": 1770406365998,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "",
-      "size": 5383766,
-      "canDownload": true,
-      "path": "attachments/MIS011_CMIS_V5_Demo_2.zip",
-      "wdls": [
-        {
-          "path": "CMIS Demo",
-          "version": "1.21",
-          "levelName": "CMIS Demo"
-        }
-      ],
-      "wdl": {
-        "version": "1.21",
-        "optimized": true
-      },
-      "unoptimizedSize": 38680309,
-      "hash": "c3857392d6323206a7a2c6e5fec2d3956a210cb98ea88a402abbed93c8f5275e"
-    },
-    {
-      "id": "1469415338339860632",
-      "name": "MIS011_CMIS-V5.0.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1463670970337464384/1469415338339860632/CMIS-V5.0.litematic?ex=6987932d&is=698641ad&hm=498ba8942e040d5f21f662a53c6436bfaf724b66ea00fc6e32443dacdcd4f7e1&",
-      "timestamp": 1770406317011,
+      "id": "ZqWro4KG3Xw",
+      "name": "MIS011_YouTube_Video_ZqWro4KG3Xw.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/ZqWro4KG3Xw",
+      "timestamp": 1771354267179,
       "author": {
         "type": "discord-in-guild",
         "id": "142441395095863296",
@@ -203,16 +227,19 @@
         "displayName": "Civic Dude",
         "iconURL": "https://cdn.discordapp.com/avatars/142441395095863296/dcf48bee377748f5809116893cac5bae.webp"
       },
-      "source": "MessageAttachment",
-      "description": "",
-      "size": 237856,
-      "canDownload": true,
-      "path": "attachments/MIS011_CMIS-V5.0.litematic",
-      "litematic": {
-        "size": "75x44x94",
-        "version": "1.21"
-      },
-      "hash": "31eba93dbca3ecba571ada7fb1dca333c955bc95e6c5ff97490e18f14ac2f9b1"
+      "source": "URLInMessage",
+      "description": "Full explanation video",
+      "canDownload": false,
+      "youtube": {
+        "title": "CMIS 5.0 Full Walkthrough",
+        "author_name": "Civic Dude",
+        "author_url": "https://www.youtube.com/@CivicDudeGaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZqWro4KG3Xw/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      }
     }
   ],
   "records": {
@@ -229,7 +256,7 @@
       "No first box placement for bulk items (use dummy box during build)",
       "Ideal Splitter may be intimidating to build, but can be done. It also uses many item entities which is bad for lag."
     ],
-    "sourced-components": "- Ideal Splitter v3 by <@239078039831445504> (VIP003)\n- Whitelister, HyperThreaded TempStorage, and Compactor by <@384084307712409600> \n- Remote Bulk Storage assembled by <@577991168369885223> (Others' components, but assembled for me by <@577991168369885223>)\n- cartMIS Whitelister by <@319513337941721089>\n- cartMIS Slice inspired by <@482674768676519949> , modified <@142441395095863296> \n- Shulker Box Sorter by <@656864003242328064> , HeadUnit modified by <@142441395095863296> \n- Cart yeeting unloaders by <@688456529338433611> \n- Unstackable Sorter by <@1068798858676686848> \n- Shulker Based Chunk Loader by: <@690661774567014400>\n- Too many more to fully list out here.",
+    "sourced-components": "- Ideal Splitter v3 by <@239078039831445504> (VIP003)\n- Whitelister, HyperThreaded TempStorage, and Compactor by <@384084307712409600> \n- Remote Bulk Storage assembled by <@577991168369885223> (Others' components, but assembled for me by <@577991168369885223>)\n- cartMIS Whitelister by <@319513337941721089>\n- cartMIS Slice inspired by <@482674768676519949> , modified <@142441395095863296> \n- Shulker Box Sorter by <@656864003242328064> , HeadUnit modified by <@142441395095863296> \n- Cart yeeting unloaders by <@688456529338433611> \n- Unstackable Sorter (US010) by <@719903397171560559>\n- Shulker Based Chunk Loader by: <@690661774567014400>\n- Too many more to fully list out here.",
     "notes": "Don't put in a full cache of empty boxes in input or input system will get bricked.",
     "compatibility": "Minecraft 1.21+",
     "instructions": [
@@ -373,6 +400,24 @@
       ]
     },
     {
+      "type": "dictionaryTerm",
+      "term": "Whitelister",
+      "id": "1473812335243165757",
+      "url": "https://discord.com/channels/1375556143186837695/1473812335243165757/1473812336434479176",
+      "matches": [
+        "Whitelister"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Pipelined",
+      "id": "1473819225020960850",
+      "url": "https://discord.com/channels/1375556143186837695/1473819225020960850/1473819226677444694",
+      "matches": [
+        "HyperThread"
+      ]
+    },
+    {
       "type": "userMention",
       "user": {
         "type": "discord-in-guild",
@@ -403,8 +448,8 @@
         "type": "discord-in-guild",
         "id": "319513337941721089",
         "username": "inspectortalon",
-        "displayName": "Inspector Talon",
-        "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+        "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp",
+        "displayName": "Inspector Talon"
       },
       "matches": [
         "<@319513337941721089>"
@@ -481,16 +526,27 @@
       ]
     },
     {
+      "type": "archivedPost",
+      "id": "1387065521270427862",
+      "code": "US010",
+      "name": "1.20+ Unstackable Sorter",
+      "url": "https://discord.com/channels/1375556143186837695/1472474881210847332",
+      "path": "Archive/US_unstackable-sorting/US010_1.20_Unstackable_Sorter",
+      "matches": [
+        "US010"
+      ]
+    },
+    {
       "type": "userMention",
       "user": {
         "type": "discord-in-guild",
-        "id": "1068798858676686848",
-        "username": "777777777777777777774832",
-        "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp",
-        "displayName": "77777777777777777777"
+        "id": "719903397171560559",
+        "username": "pyraleftt",
+        "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp",
+        "displayName": "PyraLeft"
       },
       "matches": [
-        "<@1068798858676686848>"
+        "<@719903397171560559>"
       ]
     },
     {
@@ -532,12 +588,13 @@
       "1469384790967849162",
       "1469384792549101650",
       "1469384792893292567",
-      "1469384793895469261"
+      "1469384793895469261",
+      "1473397043241287858"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1469384785846599845",
-    "uploadMessageId": "1469415736479973460"
+    "uploadMessageId": "1473397036517687377"
   },
   "archivedAt": 1770399008926,
-  "updatedAt": 1770406408034,
+  "updatedAt": 1771355626453,
   "num_comments": 0
 }

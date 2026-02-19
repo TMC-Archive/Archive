@@ -801,7 +801,7 @@
         "SSU"
       ],
       "summary": "A sequential shulker unloader is a device which takes out items of a specific type out of a mixed box, and then breaks the box when it runs out of that item type. SSU's work by putting a shulker bo...",
-      "updatedAt": 1768270086763
+      "updatedAt": 1771453187994
     },
     {
       "id": "1460469722234749123",
@@ -838,6 +838,90 @@
       ],
       "summary": "A restock station is a simple device which displays shulker boxes of useful items for the player to take items from. It's called a restock station because it allows the player to restock on food, f...",
       "updatedAt": 1769296908742
+    },
+    {
+      "id": "1473804633582338129",
+      "terms": [
+        "LUF Grouper",
+        "Lead Unstackable Filter Grouper"
+      ],
+      "summary": "A lead unstackable filter grouper (LUF grouper) is a device which checks if a box contains a certain item type, with the filter set dynamically like in a grouper. The difference between a normal gr...",
+      "updatedAt": 1771453001471
+    },
+    {
+      "id": "1473805823884005457",
+      "terms": [
+        "Grouper"
+      ],
+      "summary": "A grouper is a variable box sorting device, which checks if a box contains a specific item type anywhere in the box. This is similar to a box matcher, but instead of having a fixed filter which is ...",
+      "updatedAt": 1771453787328
+    },
+    {
+      "id": "1473809831696797848",
+      "terms": [
+        "Box Matcher"
+      ],
+      "summary": "A box matcher is a device which checks if a specific item type is contained in a box. The box can be a mixed box, in which a match means that a slot in the box has the desired item type. Box matche...",
+      "updatedAt": 1771454048831
+    },
+    {
+      "id": "1473809875653103858",
+      "terms": [
+        "LUF",
+        "LUIF",
+        "LIF",
+        "Lead Unstackable Filter",
+        "Lead Unstackable Item Filter",
+        "and Lead Item Filter"
+      ],
+      "summary": "a Lead Item Filter is a box filtering process which checks the item in the first slot of the box to check if it is stackable or nonstackable. if the lead item is stackable, it returns the item to t...",
+      "updatedAt": 1771454163060
+    },
+    {
+      "id": "1473812335243165757",
+      "terms": [
+        "Whitelister",
+        "Blacklister"
+      ],
+      "summary": "A whitelister or blacklister is typically a device which checks if the first item in a single-type box is within some set or list of item types. Whitelisters/blacklisters are useful for quickly det...",
+      "updatedAt": 1771454646470
+    },
+    {
+      "id": "1473813462533542121",
+      "terms": [
+        "SVAR",
+        "shulker box variable sorter"
+      ],
+      "summary": "SVAR stands for Shulker Variable sorter. It takes the form of an array of variable filters, which when empty are set by the first item and box pair that passes over them, and if they are already se...",
+      "updatedAt": 1771455375428
+    },
+    {
+      "id": "1473813478782402745",
+      "terms": [
+        "Butterfly tiling",
+        "mirror tiling"
+      ],
+      "summary": "Butterfly tiling or miror tiling refers to the technique of flipping every other slice to avoid crosstalk between slices. Butterfly tiled devices are in effect, 1wABt.",
+      "updatedAt": 1771454926245
+    },
+    {
+      "id": "1473814417367109653",
+      "terms": [
+        "Matrix",
+        "Matrix encoding",
+        "Matrix addressing"
+      ],
+      "summary": "Matrix addressing refers to using a coordinate system to efficiently activate components by their coordinates.",
+      "updatedAt": 1771455148597
+    },
+    {
+      "id": "1473819225020960850",
+      "terms": [
+        "Pipelined",
+        "hyperthread"
+      ],
+      "summary": "Pipelining (also referred to as hyperthreading), is design paradigm where a process with multiple steps can occur simultaneously with another process at a later stage. A process here can refer to a...",
+      "updatedAt": 1771456707188
     }
   ]
 }
